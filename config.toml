@@ -1,4 +1,4 @@
-baseURL = 'https://roues-libres-charenton.fr/'
+baseURL = '/'
 languageCode = 'fr-fr'
 title = 'Roues Libres Charenton'
 theme = 'm10c'
