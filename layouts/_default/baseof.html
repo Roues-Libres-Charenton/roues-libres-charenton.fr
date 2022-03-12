@@ -31,6 +31,19 @@
       </nav>
       {{- end }}
       <p>{{ .Site.Params.description | safeHTML }}</p>
+      {{- with .Site.Params.email }}
+        <p>
+          📧 <a href="mailto:{{.}}">{{.}}</a><br>
+        </p>
+      {{- end }}
+      {{- if .Site.Params.openstreetmap }}
+        <p>
+          📍<a href="{{ .Site.Params.openstreetmap }}" target="_blank">
+            {{.Site.Params.address}}
+          </a>
+        </p>
+      {{- end }}
+
       {{- with .Site.Params.social }}
       <div class="app-header-social">
         {{ range . }}
