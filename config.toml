@@ -1,14 +1,14 @@
 baseURL = '/'
 languageCode = 'fr-fr'
-title = 'Roues Libres Charenton'
 theme = 'm10c'
+title = 'Roues Libres Charenton'
 
 [params]
 author = 'Roues Libres Charenton'
-favicon = 'favicon.ico'
-description = "Association d'auto-réparation de vélos"
 avatar = 'images/RL_LOGO_COULEUR_RVB.jpg'
+description = "Association d'auto-réparation de vélos"
 email = 'contact@roues-libres-charenton.fr'
+favicon = 'favicon.ico'
 #address = '84 Quai des Carrières 94220 Charenton-le-Pont'
 #openstreetmap = 'https://www.openstreetmap.org/?mlat=48.82086&mlon=2.40188#map=18/48.82086/2.40188'
 
@@ -17,12 +17,16 @@ icon = "facebook"
 name = "RouesLibresCharenton"
 url = "https://www.facebook.com/RouesLibresCharenton"
 
-
 [[params.social]]
 icon = "twitter"
 name = "@AssoRouesLibres"
 url = "https://twitter.com/AssoRouesLibres"
 
 [[menu.main]]
-  name = "À propos"
-  url = "/a-propos"
+name = "À propos"
+url = "/a-propos"
+
+[[menu.main]]
+name = "Mentions légales"
+url = "/mentions-legales"
+
