@@ -1,5 +1,7 @@
 baseURL = '/'
-languageCode = 'fr-fr'
+languageCode = 'fr-FR'
+defaultContentLanguage = 'fr'
+timeZone = 'Europe/Paris'
 theme = 'm10c'
 title = 'Roues Libres Charenton'
 
