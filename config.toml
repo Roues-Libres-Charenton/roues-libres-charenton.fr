@@ -4,6 +4,7 @@ defaultContentLanguage = 'fr'
 timeZone = 'Europe/Paris'
 theme = 'm10c'
 title = 'Roues Libres Charenton'
+enableRobotsTXT = true
 
 [params]
 author = 'Roues Libres Charenton'
