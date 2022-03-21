@@ -8,6 +8,8 @@ title = 'Roues Libres Charenton'
 [params]
 author = 'Roues Libres Charenton'
 avatar = 'images/RL_LOGO_COULEUR_RVB.jpg'
+images = ['images/RL_LOGO_COULEUR_RVB.jpg']
+
 description = "Association d'auto-réparation de vélos"
 email = 'contact@roues-libres-charenton.fr'
 favicon = 'favicon.ico'
