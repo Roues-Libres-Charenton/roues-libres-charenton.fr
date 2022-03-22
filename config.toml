@@ -1,11 +1,16 @@
-baseURL = '/'
-languageCode = 'fr-fr'
+baseURL = 'https://roues-libres-charenton.fr/'
+languageCode = 'fr-FR'
+defaultContentLanguage = 'fr'
+timeZone = 'Europe/Paris'
 theme = 'm10c'
 title = 'Roues Libres Charenton'
+enableRobotsTXT = true
 
 [params]
 author = 'Roues Libres Charenton'
 avatar = 'images/RL_LOGO_COULEUR_RVB.jpg'
+images = ['images/RL_LOGO_COULEUR_RVB.jpg']
+
 description = "Association d'auto-réparation de vélos"
 email = 'contact@roues-libres-charenton.fr'
 favicon = 'favicon.ico'
