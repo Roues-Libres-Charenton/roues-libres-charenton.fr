@@ -21,8 +21,8 @@ favicon = '/favicon.ico'
 darkColor = "#222222"
 darkestColor = "#3f3e3e"
 lightColor = "#dddddd" 
-lightestColor = "#3366FF"
-primaryColor = "#E07134"
+lightestColor = "#E07134"
+primaryColor = "#3366FF"
 
 [[params.social]]
 icon = "facebook"
