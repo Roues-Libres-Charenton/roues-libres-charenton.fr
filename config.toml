@@ -18,11 +18,11 @@ favicon = '/favicon.ico'
 #openstreetmap = 'https://www.openstreetmap.org/?mlat=48.82086&mlon=2.40188#map=18/48.82086/2.40188'
 
 [params.style]
-darkColor = "#3F3E3E"
-darkestColor = "#222222"
-lightColor = "#3366FF"
-lightestColor = "#DDDDDD"
-primaryColor = "#E07134"
+darkColor = "#222222"
+darkestColor = "#3f3e3e"
+lightColor = "#dddddd" 
+lightestColor = "#E07134"
+primaryColor = "#3366FF"
 
 [[params.social]]
 icon = "facebook"
