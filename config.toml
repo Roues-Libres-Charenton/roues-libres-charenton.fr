@@ -33,3 +33,6 @@ url = "https://www.facebook.com/RouesLibresCharenton"
 icon = "twitter"
 name = "@AssoRouesLibres"
 url = "https://twitter.com/AssoRouesLibres"
+
+[markup.goldmark.renderer]
+unsafe = true
