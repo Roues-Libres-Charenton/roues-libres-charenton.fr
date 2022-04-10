@@ -34,10 +34,5 @@ icon = "twitter"
 name = "@AssoRouesLibres"
 url = "https://twitter.com/AssoRouesLibres"
 
-[[menu.main]]
-name = "À propos"
-url = "/a-propos"
-
-[[menu.main]]
-name = "Mentions légales"
-url = "/mentions-legales"
+[markup.goldmark.renderer]
+unsafe = true
