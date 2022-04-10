@@ -36,3 +36,6 @@ url = "https://twitter.com/AssoRouesLibres"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[permalinks]
+posts = "/:year/:month/:day/:slug/"
