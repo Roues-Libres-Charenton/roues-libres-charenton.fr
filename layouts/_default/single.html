@@ -5,11 +5,13 @@
       {{- if ne .Type "page" }}
       <div class="post-meta">
         <div>
-          {{ partial "icon.html" (dict "ctx" $ "name" "calendar" "title" "Date") }}
+          {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
+          Publié le&nbsp;:
           {{ .PublishDate | time.Format ":date_long" }}
         </div>
         <div>
-          {{ partial "icon.html" (dict "ctx" $ "name" "clock" "title" "Temps de lecture") }}
+          {{ partial "icon.html" (dict "ctx" $ "name" "clock") }}
+          Temps de lecture&nbsp;:
           {{ .ReadingTime }} min.
         </div>
         {{- with .Params.tags }}
@@ -25,6 +27,7 @@
       </div>
       {{- end }}
     </header>
+    <hr>
     <div class="post-content">
       {{ .Content }}
     </div>

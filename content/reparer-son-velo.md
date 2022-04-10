@@ -30,6 +30,6 @@ D'autres ateliers sont disponibles aux alentours :
 ## Plus d'information
 
 - [Rubrique "Réparer son vélo" ](https://www.charenton.fr/velo/velo_reparer.php) du site web de Charenton
-- [Carte des services vélos en Île de France](https://parisenselle.fr/services-velo/) de l'assoction *Paris en Selle*
+- [Carte des services vélos en Île de France](https://parisenselle.fr/services-velo/) de l'association *Paris en Selle*
 
 <iframe src="https://services.parisenselle.fr/" width="100%" height="800vh"></iframe>
