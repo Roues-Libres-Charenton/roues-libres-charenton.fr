@@ -9,18 +9,27 @@ _Roues Libres_ est une association loi 1901 d'auto-réparation de vélos basée 
 
 [Statuts de l'association](/documents/Statuts.pdf)
 
-# Contact
+## Contact
 
 [contact@roues-libres-charenton.fr](mailto:contact@roues-libres-charenton.fr).
 
-# Directeur de publication
+## Directeur de publication
 
 Le Président, Jean-Michel Gazagne
 
-# Hébergeur
+## Hébergeur
 
 Netlify – 610 22nd Street, Suite 315 CA 94107 San Francisco +1 844-899-7312
 
-# Données personnelles
+## Données personnelles
+
+
+### Site internet
 
 Lors que vous utilisez notre site web, les informations de connexions, incluant votre adresse IP, sont conservées par Netlify pour une durée maximale de 30 jours.
+
+### Dons et inscriptions
+
+Les données personnelles récoltées lors des dons et des inscriptions le sont uniquement pour cette finalité. De même lorsque vous donner votre email pour recevoir nos bulletins d'information.
+
+Vos données personnelles ne sont pas communiquées à des tiers.
