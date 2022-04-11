@@ -2,6 +2,7 @@
 title: "Réparer son vélo à Charenton"
 slug: "reparer-son-velo"
 date: 2022-03-29T21:05:01+01:00
+description: "Toutes les options pour réparer son vélo à Charenton-le-Pont"
 ---
 
 ## Bornes d'auto-réparation

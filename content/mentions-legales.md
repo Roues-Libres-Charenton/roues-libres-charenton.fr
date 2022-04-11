@@ -3,6 +3,7 @@ title: "Mentions légales"
 date: 2022-03-12T21:05:01+01:00
 menu: main
 weight: 20
+description: "Mentions légales"
 ---
 
 _Roues Libres_ est une association loi 1901 d'auto-réparation de vélos basée à Charenton-le-Pont, déclarée sous le numéro W941017900 (SIREN 910066273).
