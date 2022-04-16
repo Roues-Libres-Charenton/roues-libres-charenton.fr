@@ -73,6 +73,9 @@
             {{ partial "icon.html" (dict "ctx" $ "name" .icon "title" .name) }}
           </a>
         {{ end }}
+        <a href="https://roues-libres-charenton.fr/index.xml" target="_blank" rel="noreferrer noopener">
+          {{ partial "icon.html" (dict "ctx" $ "name" "rss" "title" "Flux RSS") }}
+        </a>
       </div>
       {{- end }}
     </header>
