@@ -34,6 +34,10 @@ icon = "twitter"
 name = "@AssoRouesLibres"
 url = "https://twitter.com/AssoRouesLibres"
 
+[author]
+name = 'Roues Libres Charenton'
+email = 'contact@roues-libres-charenton.fr'
+
 [markup.goldmark.renderer]
 unsafe = true
 
