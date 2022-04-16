@@ -39,3 +39,6 @@ unsafe = true
 
 [permalinks]
 posts = "/:year/:month/:day/:slug/"
+
+[sitemap]
+changefreq = "weekly"
