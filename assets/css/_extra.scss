@@ -23,3 +23,7 @@ h6 {
 .app-header-avatar {
   border: 0.5rem solid $lightest-color;
 }
+
+details > summary {
+  cursor: pointer;
+}
