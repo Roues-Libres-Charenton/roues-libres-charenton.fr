@@ -27,3 +27,14 @@ h6 {
 details > summary {
   cursor: pointer;
 }
+
+
+@media (max-width: 940px) {
+  .app-header {
+    padding: 0.5em;
+  }
+
+  .app-header > h1 {
+    margin:auto;
+  }
+}
