@@ -40,7 +40,7 @@
   </head>
   <body>
     <header class="app-header">
-      {{ if not .IsHome }}<a href="{{ .Site.BaseURL }}" title="Revenir à l'accueil">{{ end -}}
+      {{ if not .IsHome }}<a class="home-link" href="{{ .Site.BaseURL }}" title="Revenir à l'accueil">{{ end -}}
         <img class="app-header-avatar" src="{{ .Site.Params.avatar | default "avatar.jpg" | relURL }}" alt="{{ .Site.Params.author | default "John Doe" }}" />
         <h1>{{ .Site.Title }}</h1>
       {{ if not .IsHome }}</a>{{ end -}}

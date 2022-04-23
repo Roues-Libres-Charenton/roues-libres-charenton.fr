@@ -28,6 +28,18 @@ details > summary {
   cursor: pointer;
 }
 
+a {
+  text-decoration: revert;
+}
+
+.app-header-social a {
+  text-decoration: none;
+}
+
+a.home-link {
+  text-decoration: none;
+}
+
 
 @media (max-width: 940px) {
   .app-header {
