@@ -33,6 +33,6 @@ D'autres ateliers sont disponibles aux alentours :
 - [Rubrique "Réparer son vélo" ](https://www.charenton.fr/velo/velo_reparer.php) du site web de Charenton
 - [Carte des services vélos en Île de France](https://parisenselle.fr/services-velo/) de l'association *Paris en Selle*
 
-<iframe src="https://services.parisenselle.fr/" width="100%" height="800vh" title="Carte des services en Île de France"></iframe>
+<iframe src="https://services.parisenselle.fr/" style="width:100%;height:80vh" title="Carte des services en Île de France"></iframe>
 
 Liste des réparateurs en Île de France : https://mdb-idf.org/velocistes-parisiens-et-franciliens/#Charenton-le-Pont
