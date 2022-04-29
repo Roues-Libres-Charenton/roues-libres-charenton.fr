@@ -10,17 +10,17 @@ noindex: true
 
 Nous somme là pour vous aider à réparer votre vélo, n'hésitez pas à nous soliciter!
 
-## Rejoindre notre équipe de bénévoles
-
-Vous pouvez rejoindre notre équipe pour aider lors des ateliers d'auto-réparation (des connaissances en mécanique vélo sont un plus, mais pas indispensables !). 
-
-Présentez-vous simplement à un bénévole ou envoyez un mail à contact@roues-libres-charenton.fr !
-
 ## Si vous souhaitez nous remercier ou nous soutenir
 
 Vous pouvez adhérer ou faire un don : https://www.payassociation.fr/roueslibrescharenton/cotisations
 
 (l'adhésion vous permet de pouvoir accéder à notre nouvel atelier d'auto-réparation Quai des Carrières pendant ses horaires d'ouverture, pour réparer ou entretenir votre vélo)
+
+## Rejoindre notre équipe de bénévoles
+
+Vous pouvez rejoindre notre équipe pour aider lors des ateliers d'auto-réparation (des connaissances en mécanique vélo sont un plus, mais pas indispensables !). 
+
+Présentez-vous simplement à un bénévole ou envoyez un mail à contact@roues-libres-charenton.fr !
 
 ## Pour suivre notre actualité
 
