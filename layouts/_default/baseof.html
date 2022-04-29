@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode | default "en-us" }}">
   <head>
-    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}</title>
+    <title>{{ if .IsHome }}Accueil{{ else }}{{ .Title }}{{ end }} - {{ .Site.Title }}</title>
     <link rel="shortcut icon" href="{{ .Site.Params.favicon | default "/favicon.ico" }}" />
     <meta charset="utf-8" />
     {{ hugo.Generator }}
@@ -11,6 +11,9 @@
     <meta name="description" content="{{ .Site.Params.description }}" />
     {{ else if  .Description }}
     <meta name="description" content="{{ .Description }}" />
+    {{ end }}
+    {{ if .Params.noindex }}
+    <meta name="robots" content="noindex" />
     {{ end }}
 
     {{ $style := resources.Get "css/main.scss" | resources.ExecuteAsTemplate "css/main.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint -}}
