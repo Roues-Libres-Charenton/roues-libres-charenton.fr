@@ -17,6 +17,12 @@ favicon = '/favicon.ico'
 #address = '84 Quai des Carrières 94220 Charenton-le-Pont'
 #openstreetmap = 'https://www.openstreetmap.org/?mlat=48.82086&mlon=2.40188#map=18/48.82086/2.40188'
 
+[social]
+twitter = '@roueslibrescharenton'
+
+[params.rss]
+stylesheet = '/rss.xsl'
+
 [params.style]
 darkColor = "#222222"
 darkestColor = "#3f3e3e"
