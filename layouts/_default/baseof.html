@@ -50,8 +50,12 @@
     <header class="app-header">
       {{ if not .IsHome }}<a class="home-link" href="{{ .Site.BaseURL }}" title="Revenir à l'accueil">{{ end -}}
         {{- $ressource := resources.Get "images/RL_LOGO_COULEUR_RVB.jpg" -}}
+        {{- $jpg := $ressource.Resize "448x q90" -}}
         {{- $webp := $ressource.Resize "448x q100 webp" -}}
-        <img class="app-header-avatar" src="{{ $webp.RelPermalink }}" alt="{{ .Site.Params.author }}" />        
+        <picture>
+          <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+          <img src="{{ $jpg.RelPermalink }}" class="app-header-avatar" alt="{{ .Site.Params.author }}">
+        </picture>     
         <h1>{{ .Site.Title }}</h1>
       {{ if not .IsHome }}</a>{{ end -}}
       {{- with .Site.Menus.main }}
