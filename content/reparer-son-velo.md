@@ -34,5 +34,6 @@ D'autres ateliers sont disponibles aux alentours :
 - [Carte des services vélos en Île de France](https://parisenselle.fr/services-velo/) de l'association *Paris en Selle*
 
 <iframe src="https://services.parisenselle.fr/" style="width:100%;height:80vh" title="Carte des services en Île de France"></iframe>
+(les données de cette carte proviennent d'OpenStreetMap. Si vous souhaitez contribuer, vous pouvez découvrir comment ici : [OpenStreetMap - Contribuer](https://www.openstreetmap.fr/contribuer/))
 
 Liste des réparateurs en Île de France : https://mdb-idf.org/velocistes-parisiens-et-franciliens/#Charenton-le-Pont
