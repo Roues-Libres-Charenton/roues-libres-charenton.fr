@@ -1,0 +1,19 @@
+name: github pages
+
+on:
+  push:
+    branches:
+      - main # Set a branch to deploy
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Running Page Speed Insights
+        uses: jakepartusch/psi-action@v1.2
+        id: psi
+        with:
+          url: "https://roues-libres-charenton.fr/"
+          threshold: 70
+          strategy: mobile
+          key: ${{ secrets.APIKEY }}
