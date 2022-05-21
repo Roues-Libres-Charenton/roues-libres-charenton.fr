@@ -11,7 +11,7 @@
     {{ else if  .Description }}
     <meta name="description" content="{{ .Description }}" />
     {{ end }}
-    {{ if or .Params.noindex (eq .Site.BaseURL "https://roues-libres-charenton.fr/") }}
+    {{ if or .Params.noindex (ne .Site.BaseURL "https://roues-libres-charenton.fr/") }}
     <meta name="robots" content="noindex" />
     {{ end }}
 
