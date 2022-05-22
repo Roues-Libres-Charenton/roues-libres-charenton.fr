@@ -18,7 +18,7 @@ favicon = '/favicon.ico'
 #openstreetmap = 'https://www.openstreetmap.org/?mlat=48.82086&mlon=2.40188#map=18/48.82086/2.40188'
 
 [social]
-twitter = '@roueslibrescharenton'
+twitter = 'roueslibrescharenton'
 
 [params.rss]
 stylesheet = '/rss.xsl'
