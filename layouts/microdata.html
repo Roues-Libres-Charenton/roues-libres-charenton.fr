@@ -1,12 +1,12 @@
 <script type="application/ld+json">
   {
-    "@context" : "http://schema.org",
-    "@type" : "NGO",
-    "name" : "Roues Libres Charenton",
+    "@context": "http://schema.org",
+    "@type": "NGO",
+    "name": "Roues Libres Charenton",
     "legalName": "Roues Libres",
     "description": "Association d'auto-réparation de vélo ouverte un dimanche sur deux",
-    "image" : "https://roues-libres-charenton.fr/images/RL_LOGO_COULEUR_RVB_hu7bb12c3fb576dd12695f0200134e5ff7_228301_448x0_resize_q90_box.jpg",
-    "email" : "contact@roues-libres-charenton.fr",
+    "image": "https://roues-libres-charenton.fr/images/RL_LOGO_COULEUR_RVB_hu7bb12c3fb576dd12695f0200134e5ff7_228301_448x0_resize_q90_box.jpg",
+    "email": "contact@roues-libres-charenton.fr",
     "url": "https://roues-libres-charenton.fr",
     "keywords": "auto-réparation, autoréparation, vélo, vélos",
     "nonprofitStatus": "FRNonprofitType",
@@ -36,21 +36,54 @@
       "https://twitter.com/AssoRouesLibres",
       "https://www.facebook.com/RouesLibresCharenton"
     ],
-    "event" : {
-      "@type" : "Event",
-      "name" : "Ouverture de l'atelier",
-      "startDate" : "2022-06-12T10:00:00",
-      "endDate" : "2022-06-12T18:00:00",
+    "event": {
+      "@type": "Event",
+      "name": "Ouverture de l'atelier",
+      "description": "Premier atelier d'auto-réparation dans notre nouveau local",
+      "startDate": "2022-06-12T10:00:00",
+      "endDate": "2022-06-12T18:00:00",
+      "eventStatus": "EventScheduled",
+      "organizer": {
+        "@type": "NGO",
+        "name": "Roues Libres Charenton",
+        "legalName": "Roues Libres",
+        "description": "Association d'auto-réparation de vélo ouverte un dimanche sur deux",
+        "image": "https://roues-libres-charenton.fr/images/RL_LOGO_COULEUR_RVB_hu7bb12c3fb576dd12695f0200134e5ff7_228301_448x0_resize_q90_box.jpg",
+        "email": "contact@roues-libres-charenton.fr",
+        "url": "https://roues-libres-charenton.fr",
+        "keywords": "auto-réparation, autoréparation, vélo, vélos",
+        "nonprofitStatus": "FRNonprofitType"
+      },
+      "offers": [
+        {
+          "name": "Cotisation individuelle",
+          "price": 15,
+          "priceCurrency": "EUR",
+          "acceptedPaymentMethod": [
+            "http://purl.org/goodrelations/v1#Cash",
+            "http://purl.org/goodrelations/v1#PaymentMethodCreditCard"
+          ]
+        },
+        {
+          "name": "Cotisation Famille",
+          "price": 20,
+          "priceCurrency": "EUR",
+          "acceptedPaymentMethod": [
+            "http://purl.org/goodrelations/v1#Cash",
+            "http://purl.org/goodrelations/v1#PaymentMethodCreditCard"
+          ]
+        }
+      ],
       "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "location" : {
-        "@type" : "Place",
-        "name" : "Roues Libres Charenton",
-        "address" : {
-          "@type" : "PostalAddress",
-          "streetAddress" : "84 Quai des carrières",
-          "addressLocality" : "Charenton le Pont",
-          "postalCode" : "94220",
-          "addressCountry" : "FR"
+      "location": {
+        "@type": "Place",
+        "name": "Roues Libres Charenton",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "84 Quai des carrières",
+          "addressLocality": "Charenton le Pont",
+          "postalCode": "94220",
+          "addressCountry": "FR"
         },
         "geo": {
           "@type": "GeoCoordinates",
