@@ -15,7 +15,7 @@ description = "Association d'auto-réparation de vélos"
 email = 'contact@roues-libres-charenton.fr'
 favicon = '/favicon.ico'
 address = '84 Quai des Carrières, 94220 Charenton-le-Pont'
-openstreetmap = 'https://www.openstreetmap.org/?mlat=48.82086&mlon=2.40188#map=18/48.82086/2.40188'
+openstreetmap = 'https://www.openstreetmap.org/?mlat=48.82092&mlon=2.40187#map=18/48.82086/2.40188'
 
 [social]
 twitter = 'roueslibrescharenton'
