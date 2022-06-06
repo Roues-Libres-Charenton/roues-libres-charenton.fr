@@ -20,6 +20,8 @@
     <link rel="preload" href="/fonts/architects-daughter-v17-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="canonical" href="{{ .Permalink }}">
 
+    <script defer async src="/js/index.js"></script>
+    
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -74,8 +76,12 @@
       {{- end }}
       {{- if .Site.Params.openstreetmap }}
         <p>
-          📍<a href="{{ .Site.Params.openstreetmap }}" target="_blank">
-            {{.Site.Params.address}}
+          📍<a 
+              title="Roues Libres Charenton" 
+              href="{{ .Site.Params.openstreetmap }}" 
+              target="_blank"
+              data-address="84 Quai des Carrières, 94220 Charenton-le-Pont">
+                {{.Site.Params.address}}
           </a>
         </p>
       {{- end }}

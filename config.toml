@@ -5,6 +5,7 @@ timeZone = 'Europe/Paris'
 theme = 'm10c'
 title = 'Roues Libres Charenton'
 enableRobotsTXT = true
+timeout = 60000
 
 [params]
 author = 'Roues Libres Charenton'
