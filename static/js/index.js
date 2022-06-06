@@ -23,7 +23,6 @@ if (isAndroid || isIos) {
     const hash = href.split("#")[1];
     const [undefined, lat, lng] = hash.split("/");
 
-    let link;
     if (isAndroid) {
       href = `geo:${lat},${lng}?q=Roues Libres Charenton`;
     } else if (isIos) {
