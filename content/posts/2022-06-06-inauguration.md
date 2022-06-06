@@ -12,3 +12,5 @@ Nous serons ouverts de 10h à 18h pour vous accueillir, Vous aurez la possibilit
 Nous remercions fortement la Mairie de Charenton pour la mise à disposition de ce local.
 
 [Commment y aller ?](/local/#comment-y-venir-)
+
+{{<picture res="images/local/local-1.jpg">}}
