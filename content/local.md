@@ -4,6 +4,7 @@ date: 2022-05-26
 menu: main
 weight: 10
 description: "L'atelier Roues Libres, Quai des Carrières"
+images: ['images/local/local-1.png']
 ---
 
 Notre atelier se trouve au [84 Quai des Carrières à Charenton](https://www.openstreetmap.org/?mlat=48.82092&mlon=2.40187#map=18/48.82086/2.40188)

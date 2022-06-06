@@ -2,6 +2,7 @@
 title: "Inauguration de notre nouveau local"
 date: 2022-05-26
 description: "Ouverture du local le 12 juin, 84 Quai des Carrières à Charenton"
+images: ['images/local/local-1.png']
 ---
 
 Venez nous retrouver le **12 juin** pour l'inauguration de notre nouveau local au *84 Quai des Carrières* à Charenton !
