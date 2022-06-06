@@ -19,14 +19,16 @@ if (isAndroid || isIos) {
 
   links.forEach((link) => {
     let href = link.getAttribute("href");
+    let title = link.getAttribute("title") || '';
+    let address = link.getAttribute("data-address") || '';
 
     const hash = href.split("#")[1];
     const [undefined, lat, lng] = hash.split("/");
 
     if (isAndroid) {
-      href = `geo:${lat},${lng}?q=Roues Libres Charenton`;
+      href = `geo:${lat},${lng}?q=${title}`;
     } else if (isIos) {
-      href = `http://maps.apple.com/?ll=${lat},${lng}&address=84 Quai des Carrières&q=Roues Libres Charenton`;
+      href = `http://maps.apple.com/?ll=${lat},${lng}&address=${address}&q=${title}`;
     }
 
     link.setAttribute("href", href);
