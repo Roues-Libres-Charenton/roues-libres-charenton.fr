@@ -23,7 +23,7 @@ Nous serons ouverts le **12 juin 2022**.
 
 ## Comment y venir ?
 
-Le plus direct est d'utiliser le Quai des Carrières, mais cette voie est peu accueillante pour les vélos. Nous vous conseillons plutot d'arriver par L'avenue de la Liberté et de vous arreter au niveau du pont, et de descendre à pied sur le Quai des Carrières (1 minute de marche).
+Le plus direct est d'utiliser le Quai des Carrières, mais cette voie est peu accueillante pour les vélos. Nous vous conseillons plutôt d'arriver par L'avenue de la Liberté et de vous arreter au niveau du pont, et de descendre à pied sur le Quai des Carrières (1 minute de marche).
 
 {{<picture res="images/local/local-2.jpg">}}
 
