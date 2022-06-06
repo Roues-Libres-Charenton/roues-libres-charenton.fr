@@ -9,7 +9,7 @@
           <a class="posts-list-item-title" href="{{ .Permalink }}">{{ .Title }}</a>
           <span class="posts-list-item-description">
             {{ partial "icon.html" (dict "ctx" $ "name" "calendar" "title" "Date") }}
-            {{ .PublishDate | time.Format ":date_long" }}
+            Publié le&nbsp;{{ .PublishDate | time.Format ":date_long" }}
             -
             {{ partial "icon.html" (dict "ctx" $ "name" "clock" "title" "Temps de lecture") }}
              {{ .ReadingTime }} min.

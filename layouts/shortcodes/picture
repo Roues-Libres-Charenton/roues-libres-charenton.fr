@@ -1,0 +1,8 @@
+{{- $ressource := resources.Get (.Get "res") -}}
+{{- $jpg := $ressource.Resize "1140x q90" -}}
+{{- $webp := $ressource.Resize "1140x q100 webp" -}}
+
+<picture>
+  <source srcset="{{ $webp.RelPermalink }}" type="image/webp" />
+  <img src="{{ $jpg.RelPermalink }}" />
+</picture>
