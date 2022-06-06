@@ -26,7 +26,9 @@ if (isAndroid || isIos) {
     const [undefined, lat, lng] = hash.split("/");
 
     if (isAndroid) {
-      href = `geo:${lat},${lng}?q=${title}, ${address}`;
+      const q =
+        title && address ? `${title}, ${address}` : title || address || "";
+      href = `geo:${lat},${lng}?q=${q}`;
     } else if (isIos) {
       href = `http://maps.apple.com/?ll=${lat},${lng}&address=${address}&q=${title}`;
     }

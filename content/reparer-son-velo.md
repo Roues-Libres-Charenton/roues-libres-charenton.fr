@@ -19,9 +19,9 @@ Notre association propose des ateliers d'auto-réparation de vélo ponctuellemen
 D'autres ateliers sont disponibles aux alentours :
 
 - [Mélocycles](https://www.facebook.com/sansplomb94/), 39 rue Gabriel Péri à Ivry-sur-Seine
-<a href="https://www.openstreetmap.org/?mlat=48.81358&mlon=2.38292#map=19/48.81358/2.38292" title="" data-address="">📍Plan</a>
+<a href="https://www.openstreetmap.org/?mlat=48.81358&mlon=2.38292#map=19/48.81358/2.38292" title="Mélocycles" data-address="39 rue Gabriel Péri, Ivry-sur-Seine">📍Plan</a>
 - [Cyclofficine d'Ivry](https://www.cyclocoop.org/), 6 Bld de Brandebourg à Ivry-sur-Seine 
-<a href="https://www.openstreetmap.org/?mlat=48.81469&mlon=2.40122#map=19/48.81469/2.40122" title="" data-address="">📍Plan</a>
+<a href="https://www.openstreetmap.org/?mlat=48.81469&mlon=2.40122#map=19/48.81469/2.40122" title="Cyclofficine d'Ivry" data-address="6 Bld de Brandebourg, Ivry-sur-Seine">📍Plan</a>
 
 ## Réparateurs professionnels
 
