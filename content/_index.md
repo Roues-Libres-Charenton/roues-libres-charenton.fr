@@ -8,6 +8,8 @@ Nous avons pour objectif de promouvoir l’utilisation du vélo à Charenton-Le-
 
 Notre local ouvre le **12 juin**, au *84 Quai des Carrières* à Charenton.
 
+Venez le découvrir dès 14h !
+
 [Commment y venir ?](/local/#comment-y-venir-)
 
 [Toutes les options pour réparer son vélo à Charenton](/reparer-son-velo)
