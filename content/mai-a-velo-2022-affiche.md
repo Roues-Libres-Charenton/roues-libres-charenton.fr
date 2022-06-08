@@ -12,7 +12,7 @@ Nous somme là pour vous aider à réparer votre vélo, n'hésitez pas à nous s
 
 ## Si vous souhaitez nous remercier ou nous soutenir
 
-Vous pouvez adhérer ou faire un don : https://www.payassociation.fr/roueslibrescharenton/cotisations
+Vous pouvez adhérer ou faire un don : https://www.payasso.fr/roueslibrescharenton/cotisations
 
 (l'adhésion vous permet de pouvoir accéder à notre nouvel atelier d'auto-réparation Quai des Carrières pendant ses horaires d'ouverture, pour réparer ou entretenir votre vélo)
 
