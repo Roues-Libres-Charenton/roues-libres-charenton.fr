@@ -19,18 +19,13 @@ if (isAndroid || isIos) {
 
   links.forEach((link) => {
     let href = link.getAttribute("href");
-    let title = link.getAttribute("title") || "";
-    let address = link.getAttribute("data-address") || "";
-
     const hash = href.split("#")[1];
     const [undefined, lat, lng] = hash.split("/");
 
     if (isAndroid) {
-      const q =
-        title && address ? `${title}, ${address}` : title || address || "";
-      href = `geo:${lat},${lng}?q=${q}`;
+      href = `geo:${lat},${lng}`;
     } else if (isIos) {
-      href = `http://maps.apple.com/?ll=${lat},${lng}&address=${address}&q=${title}`;
+      href = `http://maps.apple.com/?ll=${lat},${lng}`;
     }
 
     link.setAttribute("href", href);
