@@ -1,8 +1,6 @@
 ---
 title: "Nous soutenir"
 date: 2022-04-21T12:05:01+01:00
-menu: main
-weight: 40
 description: "Comment soutenir l'association Roues Libres"
 ---
 
