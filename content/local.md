@@ -13,7 +13,7 @@ Notre atelier se trouve au <a href="https://www.openstreetmap.org/?mlat=48.82092
 
 ## Horaires d'ouvertures
 
-Le local est ouvert de 14h à 18h un dimanche sur deux.
+Le local généralement est ouvert de 14h à 18h les deuxième et quatrième dimanches du mois (fermeture possible en aout).
 
 Vous pouvez nous contacter par email à l'adresse [contact@roues-libres-charenton.fr](mailto:contact@roues-libres-charenton.fr) ou vous [inscrire à notre newsletter](https://a1f23a19.sibforms.com/serve/MUIEAMEGWl-tiiyvQHBM_WwLIQ8YyJZuqPIyz72LqK-59Zzx5xZM91k3jceBiIO4_VJG5bip6LInie1MAL3Nuf0IYeToxf62DyBxfp25TLzGO_5twsFYJhe8jvxq3dGMXtZ7eUfIpkZv_-a535xTQJU22hYOYHEyiLnCvLLRJdrterncvXM3pCKVC9ipe9NI8hEKV_eAV88TPtAg) pour connaitre nos prochaines ouvertures.
 
