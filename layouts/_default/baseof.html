@@ -80,11 +80,15 @@
               title="Roues Libres Charenton" 
               href="{{ .Site.Params.openstreetmap }}" 
               target="_blank"
-              data-address="84 Quai des Carrières, 94220 Charenton-le-Pont">
-                {{.Site.Params.address}}
-          </a>
+              data-address="84 Quai des Carrières, 94220 Charenton-le-Pont">{{.Site.Params.address}}</a>
         </p>
       {{- end }}
+      <p>
+        📞<a 
+            title="Téléphone" 
+            href="tel:+33184232937">01&nbsp;84&nbsp;23&nbsp;29&nbsp;37</a>
+      </p>
+      
 
       {{- with .Site.Params.social }}
       <div class="app-header-social">
