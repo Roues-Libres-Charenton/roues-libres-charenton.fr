@@ -10,8 +10,8 @@ Attention, fermeture en août !
 
 - Réouverture le **dimanche 28 août**
 
-- **Dimanche 11 septembre** (formation "Anatomie (du vélo) et entretien")
-- **Dimanche 25 septembre** (formation "Roues / pneus / réparer une crevaison")
+- **Dimanche 11 septembre** formation "Anatomie (du vélo) et entretien"
+- **Dimanche 25 septembre** formation "Roues / pneus / réparer une crevaison"
 
 Notre local au *84 Quai des Carrières* sera ouvert de 14h à 18h.
 
