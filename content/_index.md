@@ -6,11 +6,9 @@ Nous avons pour objectif de promouvoir l’utilisation du vélo à Charenton-Le-
 
 ## Prochaines dates
 
-- **Dimanche 24 juillet**
+Attention, fermeture en août !
 
-(attention, fermeture en août)
-
-- Réouverture **dimanche 28 août**
+- Réouverture le **dimanche 28 août**
 
 - **Dimanche 11 septembre** (formation "Anatomie (du vélo) et entretien")
 - **Dimanche 25 septembre** (formation "Roues / pneus / réparer une crevaison")
