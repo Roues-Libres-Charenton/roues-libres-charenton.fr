@@ -6,14 +6,10 @@ Nous avons pour objectif de promouvoir l’utilisation du vélo à Charenton-Le-
 
 ## Prochaines dates
 
-Attention, fermeture en août !
-
-- Réouverture le **dimanche 28 août**
+Notre local, *84 Quai des Carrières*, sera ouvert de 14h à 18h :
 
 - **Dimanche 11 septembre** formation "Anatomie (du vélo) et entretien"
 - **Dimanche 25 septembre** formation "Roues / pneus / réparer une crevaison"
-
-Notre local au *84 Quai des Carrières* sera ouvert de 14h à 18h.
 
 Vous pouvez venir nous rencontrer. Vous aurez la possibilité [rejoindre l'association](/devenir-membre) pour utiliser le local.
 
