@@ -26,3 +26,24 @@ Le plus direct est d'utiliser le Quai des Carrières, mais cette voie est peu ac
 {{<picture res="images/local/local-2.jpg">}}
 
 {{<picture res="images/local/local-3.jpg">}}
+
+
+# Fonctionnement du local
+
+Des pieds d'atelier et des outils sont à disposition pour vous permettre de réparer vos vélos.
+
+Des pièces de rechange d'occasion peuvent être disponibles à prix libre.
+
+Pour y réparer un vélo, il est nécessaire d'être membre de l'association (il est possible de s'inscrire sur place).
+
+Les personnes mineures doivent être accompagnées par un adulte.
+
+Le règlement intérieur complet est disponible sur place.
+
+Si votre préparation nécessite plusieurs séances, il est éventuellement possible de laisser votre vélo dans la réserve, en fonction de la place disponible.
+
+# Dons de vélos
+
+Nous acceptions les dons de vélos et pièces détachées, en fonction de leur état. Nous vous conseillons de nous contacter au préalable.
+
+Ces dons peuvent être utilisés par exemple comme pièces de rechange pour les réparations, ou pour fournir des vélos de courtoisie.
