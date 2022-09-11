@@ -6,7 +6,7 @@ description: "Comment soutenir l'association Roues Libres"
 
 ## Comment nous soutenir
 
-Vous pouvez le faire en adhérant ou en faisait un don : https://www.payasso.fr/roueslibrescharenton/cotisations
+Vous pouvez le faire en adhérant ou en faisait un don : https://www.helloasso.com/associations/roues-libres-charenton/adhesions/devenir-membre
 
 Vous pouvez aussi rejoindre notre équipe de bénévoles pour aider lors des ateliers d'auto-réparation (des connaissances en mécanique vélo sont un plus, mais pas indispensables !).
 

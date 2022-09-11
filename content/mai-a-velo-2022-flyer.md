@@ -15,7 +15,7 @@ Vous pourrez y venir pour réparer ou entretenir votre vélo en adhérant à l'a
 
 ## Comment nous soutenir
 
-Vous pouvez le faire en adhérant ou en faisait un don : https://www.payasso.fr/roueslibrescharenton/cotisations
+Vous pouvez le faire en adhérant ou en faisait un don : https://www.helloasso.com/associations/roues-libres-charenton/adhesions/devenir-membre
 
 Vous pouvez aussi rejoindre notre équipe de bénévole pour aider lors des ateliers d'auto-réparation (des connaissances en mécanique vélo sont un plus, mais pas indispensables !).
 

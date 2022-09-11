@@ -8,7 +8,7 @@ description: "Comment devenir membre de l'association Roues Libres"
 
 ## Comment devenir membre
 
-Vous pouvez adhérer en ligne https://www.payasso.fr/roueslibrescharenton/cotisations ou directement en passant nous voir lorsque nous sommes ouvert.
+Vous pouvez adhérer en ligne https://www.helloasso.com/associations/roues-libres-charenton/adhesions/devenir-membre ou directement en passant nous voir lorsque nous sommes ouvert.
 
 ## Pourquoi devenir membre
 
