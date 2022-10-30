@@ -9,7 +9,7 @@ Nous avons pour objectif de promouvoir l’utilisation du vélo à Charenton-Le-
 Notre local, *84 Quai des Carrières*, sera ouvert de 14h à 18h :
 
 - **Dimanche 13 novembre**
-- **Dimanche 20 novembre**
+- **Dimanche 27 novembre**
 
 Vous pouvez venir nous rencontrer. Vous aurez la possibilité [rejoindre l'association](/devenir-membre) pour utiliser le local.
 
