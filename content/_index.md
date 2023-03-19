@@ -10,10 +10,12 @@ Notre local est généralement ouvert les __deuxièmes__ et __quatrièmes__ dima
 
 Notre local, *84 Quai des Carrières*, sera ouvert de 14h à 18h :
 
-- **Dimanche 12 mars**
 - **Dimanche 26 mars**
 - **Dimanche 9 avril**
 - **Dimanche 23 avril**
+- En mai, nous serons exceptionnellement ouvert **tous les dimanches** !
+- **Dimanche 11 juin**
+- **Dimanche 25 juin**
 
 Vous pouvez venir nous rencontrer. Vous aurez la possibilité [rejoindre l'association](/devenir-membre) pour utiliser le local.
 
