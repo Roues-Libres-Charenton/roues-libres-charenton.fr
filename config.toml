@@ -37,6 +37,11 @@ name = "RouesLibresCharenton"
 url = "https://www.facebook.com/RouesLibresCharenton"
 
 [[params.social]]
+icon = "instagram"
+name = "RouesLibresCharenton"
+url = "https://www.instagram.com/roueslibrescharenton/"
+
+[[params.social]]
 icon = "twitter"
 name = "@AssoRouesLibres"
 url = "https://twitter.com/AssoRouesLibres"
