@@ -10,7 +10,6 @@ Notre local est généralement ouvert les __deuxièmes__ et __quatrièmes__ dima
 
 Notre local, *84 Quai des Carrières*, sera ouvert de 14h à 18h :
 
-- En mai, nous serons exceptionnellement ouvert **tous les dimanches** !
 - **Dimanche 11 juin**
 - **Dimanche 25 juin**
 
