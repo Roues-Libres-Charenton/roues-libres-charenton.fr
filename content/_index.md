@@ -10,9 +10,13 @@ Notre local est généralement ouvert les __deuxièmes__ et __quatrièmes__ dima
 
 Notre local, *84 Quai des Carrières*, sera ouvert de 14h à 18h :
 
-- **Dimanche 23 juillet**
-- **Dimanche 13 août**
-- **Dimanche 27 août**
+- **Dimanche 12 novembre**
+- **Dimanche 26 novembre**
+- **Dimanche 10 décembre** (L'atelier sera FERMÉ le dimanche 24 décembre.)
+- **Dimanche 14 janvier 2025**
+- **Dimanche 28 janvier**
+- **Dimanche 11 février**
+- **Dimanche 25 février**
 
 Vous pouvez venir nous rencontrer. Vous aurez la possibilité [rejoindre l'association](/devenir-membre) pour utiliser le local.
 
