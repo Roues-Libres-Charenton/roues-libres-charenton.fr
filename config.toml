@@ -25,9 +25,14 @@ twitter = 'roueslibrescharenton'
 stylesheet = '/rss.xsl'
 
 [params.style]
-darkColor = "#222222"
-darkestColor = "#3f3e3e"
-lightColor = "#dddddd" 
+#darkColor = "#222222"
+#darkestColor = "#3f3e3e"
+#lightColor = "#dddddd" 
+#lightestColor = "#E07134"
+#primaryColor = "#3366FF"
+darkColor = "#fff"
+darkestColor = "#eee"
+lightColor = "#222" 
 lightestColor = "#E07134"
 primaryColor = "#3366FF"
 
