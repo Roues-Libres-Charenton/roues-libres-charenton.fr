@@ -4,19 +4,22 @@ title: "Bienvenue sur le site de l'association *Roues Libres*"
 
 Nous avons pour objectif de promouvoir l’utilisation du vélo à Charenton-Le-Pont en proposant des ateliers d'auto-réparation de vélos.
 
-Notre local est généralement ouvert les __deuxièmes__ et __quatrièmes__ dimanches du mois.
+Notre local, *84 Quai des Carrières*, est généralement ouvert les __deuxièmes__ et __quatrièmes__ dimanches du mois.
 
-## Prochaines dates d'ouverture
+Nous animons également un atelier d'autoréparation *place Aristide Briand* le **3ème dimanche** du mois.
 
-Notre local, *84 Quai des Carrières*, sera ouvert de 14h à 18h :
+## Prochaines dates d'ouverture au **84 Quai des Carrières**
 
-- **Dimanche 12 novembre**
-- **Dimanche 26 novembre**
-- **Dimanche 10 décembre** (L'atelier sera FERMÉ le dimanche 24 décembre.)
-- **Dimanche 14 janvier 2025**
-- **Dimanche 28 janvier**
-- **Dimanche 11 février**
-- **Dimanche 25 février**
+Notre local, sera ouvert de 14h à 18h :
+
+- **Dimanche 14 avril**
+- **Dimanche 28 avril**
+- **Dimanche 12 mai**
+- **Dimanche 26 mai**
+
+## Prochains ateliers sur la **place Aristide Briand**
+- **Dimanche 21 avril**
+- **Dimanche 19 mai**
 
 Vous pouvez venir nous rencontrer. Vous aurez la possibilité [rejoindre l'association](/devenir-membre) pour utiliser le local.
 
