@@ -1,0 +1,13 @@
+<div>
+  <p>
+  {{- with .Site.Params.email }}
+  📧 <a href="mailto:{{.}}">{{.}}</a><br>
+  {{- end }}
+  {{- if .Site.Params.openstreetmap }}
+    📍<a 
+    title="Roues Libres Charenton" 
+    href="{{ .Site.Params.openstreetmap }}" 
+    target="_blank"
+    data-address="84 Quai des Carrières, 94220 Charenton-le-Pont">{{.Site.Params.address}}</a><br>
+    {{- end }}
+</div>
