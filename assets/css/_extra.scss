@@ -22,6 +22,8 @@ h6 {
 
 .app-header-avatar {
   border: 0.5rem solid $lightest-color;
+  width: 5rem;
+  height: 5rem;
 }
 
 details > summary {
@@ -75,4 +77,11 @@ a.home-link {
 .image-gallery li a img {
   width: 100%;
   display: block;
+}
+
+footer {
+  bottom: 0;
+  width: 100%;
+  //center
+  text-align: center;
 }

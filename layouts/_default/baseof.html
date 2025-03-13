@@ -69,44 +69,14 @@
       </nav>
       {{- end }}
       <p>{{ .Site.Params.description | safeHTML }}</p>
-      {{- with .Site.Params.email }}
-        <p>
-          📧 <a href="mailto:{{.}}">{{.}}</a><br>
-        </p>
-      {{- end }}
-      {{- if .Site.Params.openstreetmap }}
-        <p>
-          📍<a 
-              title="Roues Libres Charenton" 
-              href="{{ .Site.Params.openstreetmap }}" 
-              target="_blank"
-              data-address="84 Quai des Carrières, 94220 Charenton-le-Pont">{{.Site.Params.address}}</a>
-        </p>
-      {{- end }}
-      <p>
-        📞<a 
-            title="Téléphone" 
-            href="tel:+33184232937">01&nbsp;84&nbsp;23&nbsp;29&nbsp;37</a>
-      </p>
-      
-
-      {{- with .Site.Params.social }}
-      <div class="app-header-social">
-        {{ range . }}
-          <a href="{{ .url }}" target="_blank" rel="noreferrer noopener">
-            {{ partial "icon.html" (dict "ctx" $ "name" .icon "title" .name) }}
-          </a>
-        {{ end }}
-        <a href="https://roues-libres-charenton.fr/index.xml" target="_blank" rel="noreferrer noopener">
-          {{ partial "icon.html" (dict "ctx" $ "name" "rss" "title" "Flux RSS") }}
-        </a>
-      </div>
-      {{- end }}
     </header>
     <main class="app-container">
       {{ block "main" . }}
         {{ .Content }}
       {{ end }}
     </main>
+    <footer>
+      {{ template "_default/footer.html" . }}
+    </footer>
   </body>
 </html>
