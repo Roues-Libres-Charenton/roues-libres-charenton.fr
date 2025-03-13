@@ -2,6 +2,8 @@
 title: "Bienvenue sur le site de l'association *Roues Libres*"
 ---
 
+**[Calendrier des prochaines ouvertures et évètements](/calendrier)**
+
 Nous avons pour objectif de promouvoir l’utilisation du vélo à Charenton-Le-Pont en proposant des ateliers d'auto-réparation de vélos.
 
 Notre local, *84 Quai des Carrières*, est ouvert les __deuxièmes__ et __quatrièmes__ dimanches du mois.
