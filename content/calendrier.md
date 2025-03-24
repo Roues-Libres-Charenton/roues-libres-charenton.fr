@@ -4,28 +4,6 @@ menu: main
 weight: 10
 ---
 
-## Mars 2025
-
-### Atelier
-
-📅 Dimanche 16 mars 2025
-
-📍 Atelier 84 quai des Carrières, Charenton
-
-ℹ️ Atelier co-réparation
-
-⏰ 14:00 - 18:00
-
-### Atelier
-
-📅 Dimanche 23 mars 2025
-
-📍 Atelier 84 quai des Carrières, Charenton
-
-ℹ️ Atelier co-réparation
-
-⏰ 14:00 - 18:00
-
 ## Avril 2025
 
 ### Atelier
